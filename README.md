@@ -1,8 +1,4 @@
-## Base de données
-
-users
-
-- id 
-- username
-- password
-- role (admin ou user)
+# Login Project
+Web Site with homepage, redirectg tog login page if not connected.      
+- roles : admin, user
+- crypted passwords
